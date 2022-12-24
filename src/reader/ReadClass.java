@@ -10,7 +10,7 @@ public class ReadClass {
     public ReadClass() {
     }
 
-    static String path = "/home/wk/IdeaProjects/Katalog_Reader_Test_1/СЕЗОННЫЙ КАТАЛОГ ПЯТЕРОЧКА | СКИДКИ В ДЕКАБРЕ |.txt";
+    static String path = "/home/wk/IdeaProjects/Katalog_Reader_Test_1/Sezonnyj Katalog 5.txt";
     static StringBuilder sb = new StringBuilder();
     static ArrayList<String> list = new ArrayList<>();
     static String str;
